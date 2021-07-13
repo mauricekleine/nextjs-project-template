@@ -1,3 +1,6 @@
 module.exports = {
-  /* config options here */
+  eslint: {
+    dirs: ["src"],
+  },
+  reactStrictMode: true,
 };
